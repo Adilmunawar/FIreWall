@@ -103,7 +103,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 ## 💡 Follow My Work  
 
 [![GitHub](https://img.shields.io/badge/GitHub-AdilMunawar-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adilmunawar)  
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Adilmunawar)  
-[![Contact Me](https://img.shields.io/badge/Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:your-email@example.com)  
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](adilmunawar.rf.gd)  
+[![Contact Me](https://img.shields.io/badge/Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:adilfromavengers@gmail.com)  
 ```
 
